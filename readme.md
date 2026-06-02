@@ -1,0 +1,2 @@
+# Project Description
+This project is an practice project for Udemy course. Purpose of this project is to demonstrate how to create an REST API using Gin framework. Also how to authenticate an user, creating middleware and basic CRUD operations with Go.
